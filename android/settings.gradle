@@ -1,0 +1,3 @@
+rootProject.name = 'HRPayStation'
+
+include ':app'
